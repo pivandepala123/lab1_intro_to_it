@@ -1,0 +1,3 @@
+
+интерфейс мобильного приложения - https://www.figma.com/design/yV1pt1McKpBmPvhUB3pZ01/Lab1_Interfaces_%D0%95%D0%B3%D0%BE%D1%80%D0%BE%D0%B2?node-id=0-1&t=qma3DYhNbNrAT6Cq-1
+интерфейс веб интерфейс - https://www.figma.com/design/iHXAVMtnaAcjdGPlyVtEt2/Untitled?node-id=0-1&t=53jIg0BV1DkwNMJr-1
